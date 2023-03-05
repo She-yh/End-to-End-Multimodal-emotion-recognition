@@ -1,2 +1,5 @@
 /raw_data
+/models/lt_1head_moddrop_2.pth
 EfficientFace_Trained_on_AffectNet7.pth.tar
+.idea
+__pycache__
